@@ -1,7 +1,7 @@
 html, body {height:100%;}
 
 body {
-    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Roboto', 'Noto Sans KR', sans-serif;
     word-break: keep-all;
 }
 
@@ -10,9 +10,8 @@ body {
 }
 
 .container {
-    max-width: 1230px;
+    width: 1140px;
     margin: 0 auto;
-    padding: 0 15px;
 }
 
 .blind {position: absolute;
